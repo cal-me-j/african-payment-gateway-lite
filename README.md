@@ -23,7 +23,7 @@ export const PaystackWebhooksSchema = z.object({
 ## 📦 Unlock the Full Production Engine & Microservice Bundle
 This public repository is a stripped-down demo. If you are building a production SaaS or multi-tenant portal, get the complete library featuring secure raw-buffer webhook signature verification, Express sandbox routes, multi-tenant Prisma schemas, self-healing reconciliation cron jobs, and a React PWA frontend template.
 
-👉 **[Get the Full Engine & Bundle on Lemon Squeezy ($19 - $99)](https://jvoex.lemosqueezy.com)**
+👉 **[Get the Full Engine & Bundle on Lemon Squeezy ($19 - $99)](https://jvoex.lemonsqueezy.com)**
 
 ## License
 Single-Seat Proprietary Commercial License. (Permitted for commercial apps; resale or public repository hosting strictly prohibited).
